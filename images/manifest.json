@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://richel325.github.io/silverpoint-sketchbook/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Richel325/silverpoint-sketchbook project"
+        ]
+    },
+    "items": []
+}
